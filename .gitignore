@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.venv/
+
+# The workbook holds real purchase data; keep it out of the repo.
+*.xlsx

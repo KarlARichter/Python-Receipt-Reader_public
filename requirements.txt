@@ -1,0 +1,5 @@
+google-genai>=1.0.0     # Gemini API (the scanning model)
+pillow>=10.0.0          # opens/resizes jpg, png, webp, etc.
+pillow-heif>=0.16.0     # iPhone .heic / .heif support
+pymupdf>=1.24.0         # reads .pdf scans (imported as "fitz")
+openpyxl>=3.1.0         # writes the Excel workbook
